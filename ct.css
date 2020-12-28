@@ -1,0 +1,18 @@
+h1{
+    color: aqua;
+    background-color: blue;
+    
+}
+body{
+    background-color:black;
+}
+
+p{
+    background-color: aqua;
+    display: inline-flex;
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+    width: 200px;
+}
